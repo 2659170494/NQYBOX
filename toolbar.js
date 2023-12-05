@@ -22,13 +22,13 @@ ui.menu.setDataSource([
 ui.menu.on("item_click", item => {
     switch(item.title){
         case "访问官网":
-            app.openUrl("http://box.nqynet.cn")
+            app.openUrl("Unknown")
             break;
         case "Telegram群组":
-            app.openUrl("https://t.me/NQyBox")
+            app.openUrl("Unknown")
             break;
         case "官方Q群":
-            setClip("712677966")
+            setClip("Unknown")
             toast("群号已复制~")
             break;
         case "设置主题色":

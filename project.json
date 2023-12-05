@@ -1,0 +1,29 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "13BDA8E8-3",
+    "build_number": 3,
+    "build_time": 1618146450813,
+    "release": false
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "res/icon.png",
+  "launchConfig": {
+    "displaySplash": false,
+    "hideLogs": false,
+    "splashIcon": "res/splashIcon.png",
+    "splashText": "NQYBoxAir",
+    "stableMode": true
+  },
+  "main": "main.js",
+  "name": "NQYBoxAir内部测试版",
+  "optimization": {
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "cn.nqynet.box.air",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
